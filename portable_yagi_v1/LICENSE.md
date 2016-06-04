@@ -64,8 +64,7 @@ such software, firmware, or code is explicitly expressed to be subject
 to this Licence. The use of such software, firmware, or code is
 otherwise subject to the applicable licence terms and conditions.
 
-## 3. Copying, modification, communication to the public and distribution
-of the Documentation
+## 3. Copying, modification, communication to the public and distribution of the Documentation
 
 3.1. The Licensee shall keep intact all copyright and trademarks
 notices, all notices referring to Documentation Location, and all
